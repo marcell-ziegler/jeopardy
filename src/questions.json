@@ -1,0 +1,127 @@
+[
+  {
+    "columnTitle": "Science",
+    "questions": [
+      {
+        "prompt": "This gas makes up about 78% of Earth's atmosphere.",
+        "answer": "Nitrogen"
+      },
+      {
+        "prompt": "The process by which plants convert sunlight into food.",
+        "answer": "Photosynthesis"
+      },
+      {
+        "prompt": "The unit of electrical resistance is named after this German physicist.",
+        "answer": "Ohm"
+      },
+      {
+        "prompt": "This element has the chemical symbol 'Au'.",
+        "answer": "Gold"
+      },
+      {
+        "prompt": "The force that keeps planets in orbit around the Sun.",
+        "answer": "Gravity"
+      }
+    ]
+  },
+  {
+    "columnTitle": "History",
+    "questions": [
+      {
+        "prompt": "The year the Berlin Wall fell.",
+        "answer": "1989"
+      },
+      {
+        "prompt": "The ancient wonder that stood in Alexandria, Egypt.",
+        "answer": "The Lighthouse of Alexandria"
+      },
+      {
+        "prompt": "This Roman general crossed the Rubicon in 49 BC.",
+        "answer": "Julius Caesar"
+      },
+      {
+        "prompt": "The empire that built Machu Picchu.",
+        "answer": "The Inca Empire"
+      },
+      {
+        "prompt": "The treaty that ended World War I.",
+        "answer": "The Treaty of Versailles"
+      }
+    ]
+  },
+  {
+    "columnTitle": "Geography",
+    "questions": [
+      {
+        "prompt": "The longest river in the world.",
+        "answer": "The Nile (or Amazon — debated)"
+      },
+      {
+        "prompt": "The smallest country in the world by area.",
+        "answer": "Vatican City"
+      },
+      {
+        "prompt": "The mountain range that contains Mount Everest.",
+        "answer": "The Himalayas"
+      },
+      {
+        "prompt": "The continent with the most countries.",
+        "answer": "Africa"
+      },
+      {
+        "prompt": "The deepest lake in the world.",
+        "answer": "Lake Baikal"
+      }
+    ]
+  },
+  {
+    "columnTitle": "Pop Culture",
+    "questions": [
+      {
+        "prompt": "The fictional detective who lives at 221B Baker Street.",
+        "answer": "Sherlock Holmes"
+      },
+      {
+        "prompt": "The band behind the album 'Abbey Road'.",
+        "answer": "The Beatles"
+      },
+      {
+        "prompt": "The streaming show set in Hawkins, Indiana featuring the Upside Down.",
+        "answer": "Stranger Things"
+      },
+      {
+        "prompt": "The director of the movie 'Inception' (2010).",
+        "answer": "Christopher Nolan"
+      },
+      {
+        "prompt": "The video game franchise featuring Link and Zelda.",
+        "answer": "The Legend of Zelda"
+      }
+    ]
+  },
+  {
+    "columnTitle": "Math",
+    "questions": [
+      {
+        "prompt": "The value of π rounded to two decimal places.",
+        "answer": "3.14"
+      },
+      {
+        "prompt": "The square root of 144.",
+        "answer": "12"
+      },
+      {
+        "prompt": "The sum of the interior angles of a triangle.",
+        "answer": "180 degrees"
+      },
+      {
+        "prompt": "The result of 7 factorial (7!).",
+        "answer": "5040"
+      },
+      {
+        "prompt": "In a right triangle, the side opposite the right angle.",
+        "answer": "Hypotenuse"
+      }
+    ]
+  }
+]
