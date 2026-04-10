@@ -1,5 +1,3 @@
-import { useRef } from 'react'
-
 function TeamPanel({ teams, onAddTeam, onRemoveTeam, onUpdateName, onUpdateScore }) {
   return (
     <div className="team-panel">
@@ -22,15 +20,12 @@ function TeamPanel({ teams, onAddTeam, onRemoveTeam, onUpdateName, onUpdateScore
 }
 
 function TeamCard({ team, onRemove, onNameChange, onScoreChange }) {
-  const inputRef = useRef(null)
-
   return (
     <div className="team-card">
       <button className="team-remove-btn" onClick={onRemove} aria-label="Remove team">
         ×
       </button>
       <input
-        ref={inputRef}
         className="team-name-input"
         value={team.name}
         onChange={(e) => onNameChange(e.target.value)}
