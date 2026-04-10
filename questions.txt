@@ -53,7 +53,7 @@ Vad är 6?
 Vad är Erid?
 300: Hades son som är huvudkaraktären i spelet Hades.
 Vem är Zagreus?
-400: $$ - \frac{\bar{h}^2}{8 \pi^2 m} \frac{\partial^2}{\partial x^2} + U(x). $$
+400: $$ - \frac{h^2}{8 \pi^2 m} \frac{\partial^2}{\partial x^2} + U(x). $$
 Vad är Hamiltonoperatorn?
 500: Rouge sneak attack vid lvl 8.
 Vad är 4d6?
